@@ -1,30 +1,30 @@
-# Alexandre D'Ajuda | Software Developer 👋
+# Alexandre D'Ajuda | Software Engineer 👋
 
-Engenheiro de Software focado em ecossistema JavaScript. Minha abordagem combina escrita de código limpo, arquitetura escalável e foco total na experiência do usuário. 
+Software Engineer focused on the JavaScript ecosystem. I build scalable web applications with a focus on Clean Code, performance, and exceptional user experience.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Frontend:** JavaScript (ES6+), manipulação avançada de DOM, CSS3 (Flexbox/Grid), HTML5 Semântico.
+- **Frontend:** JavaScript (ES6+), Advanced DOM Manipulation, CSS3 (Flexbox/Grid), Semantic HTML5.
 - **Backend & Tooling:** Node.js, Git/GitHub (Git Flow), Linux (Ubuntu/Terminal).
-- **Metodologias:** Clean Code, Projetos Baseados em Componentes, Persistência de Dados Local.
+- **Methodologies:** Clean Code, Component-Based Development, Local Data Persistence, Agile Mindset.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Highlighted Projects
 
 #### 💰 [Smart Finance Expert](https://github.com/alexandre-dajuda/smart-finance-expert)
-Aplicação de gestão financeira de alta precisão.
-- **Diferencial Técnico:** Implementação de lógica condicional para feedback visual dinâmico e persistência de dados via LocalStorage para garantir zero perda de informação.
-- **Conceitos:** Manipulação de eventos, lógica matemática aplicada e UX Design.
+High-precision financial management application.
+- **Technical Highlight:** Implementation of conditional logic for dynamic visual feedback and data persistence via LocalStorage to ensure zero data loss.
+- **Key Concepts:** Event handling, applied mathematical logic, and UX Design.
 
 #### 📝 [To-Do List Pro](https://github.com/alexandre-dajuda/todo-list-pro)
-Sistema de gerenciamento de produtividade focado em manipulação de coleções de dados.
-- **Diferencial Técnico:** Uso de estruturas de dados complexas (Arrays de Objetos), métodos de iteração (map, filter) e renderização dinâmica de elementos HTML.
+Productivity management system focused on data collection manipulation.
+- **Technical Highlight:** Use of complex data structures (Arrays of Objects), iteration methods (map, filter), and dynamic rendering of HTML elements.
 
 ---
 
-### 📊 Estatísticas de Desenvolvimento
+### 📊 Development Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandre-dajuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-dajuda&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -32,5 +32,5 @@ Sistema de gerenciamento de produtividade focado em manipulação de coleções 
 
 ---
 
-### 📫 Conecte-se comigo:
+### 📫 Connect with me:
 [LinkedIn]| [Email](mailto:alexandredajuda@gmail.com)
